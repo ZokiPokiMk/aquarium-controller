@@ -11,7 +11,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-src/*-backups
-src/jlcpcb
-src/production
-src/output
+hardware/*-backups
+hardware/jlcpcb
+hardware/production
+hardware/output
