@@ -1991,7 +1991,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 31.75 106.68 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 1e19da84-a2c5-4221-a2c4-68fff68e4732)
     (property "Reference" "J3" (at 34.29 106.045 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2845,7 +2845,7 @@
   )
 
   (symbol (lib_id "ProjectLibrary:Jumper_4_Open_Pin") (at 71.12 139.7 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b4e9d061-caac-4f81-8d46-3fbabb62da46)
     (property "Reference" "JP1" (at 72.39 139.065 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2873,7 +2873,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 48.26 121.92 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid b8d70595-7be2-4c9b-9ab7-f8d0755e8bb0)
     (property "Reference" "J4" (at 50.8 121.285 0)
       (effects (font (size 1.27 1.27)) (justify left))
